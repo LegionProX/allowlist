@@ -22,3 +22,5 @@ paysale.com
 *.paysale.com
 alfaleads.com
 *.alfaleads.com
+freebitco.in
+*.freebitco.in
